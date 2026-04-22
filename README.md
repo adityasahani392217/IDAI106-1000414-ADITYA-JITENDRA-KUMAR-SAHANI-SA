@@ -107,7 +107,7 @@ Full ideation document: `/Docs/05_ideation_features.md`
 - Feedback Form
 - Thank You Screen
 
-**Prototype Link:** [Add Figma prototype link here]  
+**Prototype Link:** [https://debug-ai-42935159.figma.site/]  
 **Screen Guide:** `/Wireframes/prototype_screen_guide.md`  
 **Screenshots:** `/Wireframes/` folder
 
